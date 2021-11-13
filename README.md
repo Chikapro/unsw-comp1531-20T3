@@ -1,2 +1,2 @@
-# unsw-comp1531-20T3
+# Flockr
 A python flask backend and frontend server 
